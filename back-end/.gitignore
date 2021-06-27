@@ -1,0 +1,12 @@
+vendor/
+log/*
+!log/.gitkeep 
+cache/*
+!cache/.gitkeep 
+spool/*
+!spool/.gitkeep
+bin/*
+!bin/.gitkeep
+config/config.inc.php
+composer.phar
+composer.lock
